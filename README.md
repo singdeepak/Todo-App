@@ -14,17 +14,18 @@ Check out the live app on Vercel: [https://todo-app-khaki-rho.vercel.app](https:
 
 ## Design View
 
-## Desktop
-![App Screenshot](./main.png)
+## Web View  
+![App Screenshot](https://todo-app-khaki-rho.vercel.app/main.png)
 
-## Mobile
-![App Screenshot](./mobile.png)
+## Mobile  
+![Mobile View](https://todo-app-khaki-rho.vercel.app/mobile.png)
 
-## Add
-![App Screenshot](./add.png)
+## Add Task  
+![Add Task](https://todo-app-khaki-rho.vercel.app/add.png)
 
-## Delete
-![App Screenshot](./delete.png)
+## Delete Task  
+![Delete Task](https://todo-app-khaki-rho.vercel.app/delete.png)
+
 
 ## How to run locally
 
