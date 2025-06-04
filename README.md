@@ -18,7 +18,7 @@ Check out the live app on Vercel: [https://todo-app-khaki-rho.vercel.app](https:
 ![App Screenshot](https://todo-app-khaki-rho.vercel.app/main.png)
 
 ## Mobile  
-![Mobile View](https://todo-app-khaki-rho.vercel.app/mobile.png)
+![Mobile View](https://todo-app-khaki-rho.vercel.app/mobile.jpeg)
 
 ## Add Task  
 ![Add Task](https://todo-app-khaki-rho.vercel.app/add.png)
