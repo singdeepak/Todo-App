@@ -22,4 +22,4 @@ Check out the live app on Vercel: [https://my-todo-app.vercel.app](https://my-to
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/my-todo-app.git
+https://github.com/singdeepak/Todo-App.git
