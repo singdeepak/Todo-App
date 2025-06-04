@@ -10,12 +10,21 @@ A simple React Todo List app.
 - Nice UI with Tailwind CSS and SweetAlert2 popups
 
 ## Live Demo
+Check out the live app on Vercel: [https://todo-app-khaki-rho.vercel.app](https://todo-app-khaki-rho.vercel.app)
 
-Check out the live app on Vercel: [https://my-todo-app.vercel.app](https://my-todo-app.vercel.app)
+## Design View
 
-## Screenshot
+## Desktop
+![App Screenshot](./main.png)
 
-![App Screenshot](./screenshot.png)
+## Mobile
+![App Screenshot](./mobile.png)
+
+## Add
+![App Screenshot](./add.png)
+
+## Delete
+![App Screenshot](./delete.png)
 
 ## How to run locally
 
